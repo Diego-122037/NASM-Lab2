@@ -138,7 +138,7 @@ display /i $pc
 
 1. Opisać, jakie zadanie wykonuje program początkowy.
 2. Korzystając z instrukcji porównania oraz skoków warunkowych, napisać program, który w pętli zwiększa wartość akumulatora o `3` w każdym kroku pętli. Pętla powinna wykonać 10 iteracji.
-3. Zmodyfikować program z zadania 2 w taki sposób, aby w każdym kroku pętli wartość akumulatora była zwiększana o aktualną wartość licznika. Pętla powinna wykonać 10 iteracji.
+3. Zmodyfikować program z zadania 2 w taki sposób, aby w każdym kroku pętli wartość akumulatora była zwiększana o aktualną wartość licznika. Pętla powinna wykonać 10 iteracji, zastosować instrukcję LOOP.
 4. Napisać program wykonujący algorytm sortowania bąbelkowego dla tablicy zawierającej 5 elementów: `3, 4, 1, 2, 5`.
 
 ## Uwagi
